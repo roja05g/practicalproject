@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+.imgbody{
+    background-image: url('https://t3.ftcdn.net/jpg/03/24/73/92/360_F_324739203_keeq8udvv0P2h1MLYJ0GLSlTBagoXS48.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    border: 1px solid white;
+
+}
+
+.flow{
+    height: 88vh;
+    overflow-y: scroll;
+}
